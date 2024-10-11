@@ -1,0 +1,50 @@
+body {
+  background-color: #e498eb;
+}
+nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  align-items: center;
+  background-color: #333333;
+  color: aliceblue;
+  display: flex;
+  height: 80px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+}
+a {
+  font-size: larger;
+  color: aliceblue;
+}
+main {
+  padding: 100px 35px 96px;
+  background-color: #c7bfc9;
+  min-height: 100vh;
+  color: #333333;
+  margin: 0px 300px 0px;
+  text-align: center;
+  font-size: 30px;
+}
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.title {
+  font-size: 60px;
+}
+.homeimg {
+  height: 450px;
+}
+.about {
+  text-align: left;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: large;
+  font-family: sans-serif;
+}
+.aboutme {
+  height: 350px;
+}
